@@ -4,6 +4,8 @@ class Chatty_student
     
   end
   
-  def 
+  def raise_hand
+    
+  end
 
 end
